@@ -33,3 +33,5 @@ tags
 .tags
 TAGS
 .TAGS
+
+yarn.lock
